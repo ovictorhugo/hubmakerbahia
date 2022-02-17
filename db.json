@@ -1,0 +1,26 @@
+{
+    "theme": {
+        "colors": {
+            "colorPrimaryMain": "#0057ff",
+            "colorPrimaryDark": "#003ecb",
+            "colorPrimaryDarker": "#002f9a",
+            "colorSecondaryMain": "#ffffff",
+            "colorSecondaryDark": "#f1f1f1",
+            "colorSecondaryDarker": "#e4e4e4",
+
+            "colorBackgroundMain": "#ffffff",
+            "colorBackgroundDark": "#f9f9f9"
+        },
+
+        "borderRadius": "6px",
+
+        "textColor": {
+            "textGrayMain": "#747474",
+            "textGrayDark": "#505050",
+            "textGrayDarker": "#323232",
+            "textWhiteMain": "#FFFFFF",
+            "textColorAlert": "#e6215d"
+        }
+
+    }
+}
